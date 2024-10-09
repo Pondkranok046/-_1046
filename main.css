@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(233, 214, 245);
+}
+h1{
+    font-size: 30pt;
+    color: rgb(20, 91, 154);
+    text-align: center;
+}
+#one{
+    width: 200px;
+    border-radius: 20px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+video{
+    width: 1000px;
+    
+}
+#link {
+    font-family: "Josefin Slab";
+    color: rgb(11, 11, 11);
+    font-size: 25px;
+    border: 2px solid #7d0ce7; /* สีและความหนาของกรอบ */
+    padding: 20px; /* ระยะห่างภายในกรอบ */
+    border-radius: 10px; /* มุมกรอบที่มน */
+    background-color: rgb(18, 122, 248); /* สีพื้นหลังของกรอบ */
+}
+h2{
+    font-size: 30pt;
+    color: rgb(8, 8, 8);
+    text-align: left;
+    line-height: 0.2; /* กำหนดช่องว่างระหว่างบรรทัด */
+}
+h3{
+    font-size: 25pt;
+    color: rgb(20, 91, 154);
+    text-align: left;
+}
+h4{
+    font-size: 15pt;
+    color: rgb(115, 179, 236);
+    text-align: left;
+    line-height: 0.5; /* กำหนดช่องว่างระหว่างบรรทัด */
+}
+h5{
+    font-size: 40pt;
+    color: rgb(20, 91, 154);
+    text-align: left;
+}
